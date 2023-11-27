@@ -3,6 +3,10 @@
 ## This is a section about Goats
 
 - Some goats are GRUMPY!
+
+[<img src="https://img.youtube.com/vi/KokBOdCQ0Is/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/KokBOdCQ0Is)
+
     - This is due to their lack of flight.
     - They reeeally want to fly for some reason.
 - Some goats are able to fly!
