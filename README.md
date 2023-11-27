@@ -3,7 +3,15 @@
 ## This is a section about Goats
 
 - Some goats are GRUMPY!
-    This is due to their lack of flight.
-    They reeeally want to fly for some reason.
+    - This is due to their lack of flight.
+    - They reeeally want to fly for some reason.
 - Some goats are able to fly!
 - Some goats are very happy to bake you a pie!
+
+
+### Mechanisms for goat flight:
+- Jet packs
+- Super Jet Packs
+- springs
+- wings
+- dragonfly armies
