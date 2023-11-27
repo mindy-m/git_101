@@ -24,6 +24,8 @@
 
 If you are lucky enough to have a Goat for a friend, they may bake oyu a pie! Make sure to provide your goat friend with plenty of raw ingredients, and the fresher, the better!
 
+![A Goat running a local Bakery](./images/goat_run_bakery.webp))
+
 Goats like to cook with:
 
 - Blueberries
