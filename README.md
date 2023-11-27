@@ -22,6 +22,11 @@
 - Check out our new eco-friendly levitation solution!
 - Your goat will gently hover with no need for dinosaur juices.
 
+#### JetPack NG
+
+- JetPack NG produces goat flight faster than you'd ever think possible!
+- Is speed your goal?  JetPack NG is your solution.
+
 
 ### If a Goat is your friend, you are a lucky person!
 
