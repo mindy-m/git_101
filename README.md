@@ -11,6 +11,8 @@
 
 ### Mechanisms for goat flight:
 
+![A Goat, soaring high in the sky, weiring a Jetpack](./images/goat_with_a_jetpack.webp))
+
 - Jet packs
 - Super Jet Packs
 - springs
