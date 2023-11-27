@@ -11,6 +11,8 @@
 
 ### Mechanisms for goat flight:
 
+![A Goat, soaring high in the sky, weiring a Jetpack](./images/goat_with_a_jetpack.webp))
+
 - Jet packs
 - Super Jet Packs
 - springs
@@ -33,6 +35,8 @@
 
 If you are lucky enough to have a Goat for a friend, they may bake oyu a pie! Make sure to provide your goat friend with plenty of raw ingredients, and the fresher, the better!
 
+![A Goat running a local Bakery](./images/goat_run_bakery.webp))
+
 Goats like to cook with:
 
 - Blueberries
@@ -41,6 +45,8 @@ Goats like to cook with:
 
 
 #### If a Goat bakes you a Broccoli pie...
+
+![A lovely Broccoli Pie, baked by a Goat](./images/broccoli_pie.webp))
 
 You should feel extremely honored. Do you like Broccoli? No? DO NOT LET THEM KNOW THIS. Goats LOVE Broccoli, and to reject a Broccoli pie would insult them heavily! If you like Broccoli, then you are in good luck! If you do not... accept the pie, and then feed it to another Goat, who will see this as a great honor from you.
 
