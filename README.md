@@ -18,3 +18,7 @@ Goats like to cook with:
 - Blueberries
 - Apples
 - Broccoli
+
+#### If a Goat bakes you a Broccoli pie...
+
+You should feel extremely honored. Do you like Broccoli? No? DO NOT LET THEM KNOW THIS. Goats LOVE Broccoli, and to reject a Broccoli pie would insult them heavily! If you like Broccoli, then you are in good luck! If you do not... accept the pie, and then feed it to another Goat, who will see this as a great honor from you.
