@@ -17,16 +17,16 @@
 - wings
 - dragonfly armies
 
-#### Levitation
+#### Levitation $4,965.22
 
 - Check out our new eco-friendly levitation solution!
 - Your goat will gently hover with no need for dinosaur juices.
 
-#### JetPack NG
+#### JetPack NG $925,332,576 - GREAT VALUE!!
 
 - JetPack NG produces goat flight faster than you'd ever think possible!
 - Is speed your goal?  JetPack NG is your solution.
-
+    Please subscribe to your JetPack NG++ plan for continued flight - now only 7K/month.
 
 
 ### If a Goat is your friend, you are a lucky person!
