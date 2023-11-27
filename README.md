@@ -17,6 +17,11 @@
 - wings
 - dragonfly armies
 
+#### Levitation
+
+- Check out our new eco-friendly levitation solution!
+- Your goat will gently hover with no need for dinosaur juices.
+
 
 ### If a Goat is your friend, you are a lucky person!
 
