@@ -55,6 +55,8 @@ Goats like to cook with:
 - Apples
 - Broccoli
 - Apple sauce
+- Garlic
+- Onions
 - Ham
 - Sour Cream
 
